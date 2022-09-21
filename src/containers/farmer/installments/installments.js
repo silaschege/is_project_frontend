@@ -1,5 +1,5 @@
 import React from 'react'
-import NavbarFarmers from './navbar_farmers'
+import NavbarFarmers from '../navbar_farmers'
 
 export const InstallmentsPage = () => {
   return (
