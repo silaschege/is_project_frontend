@@ -7,9 +7,9 @@ import HomePage from "./containers/general/logged_out/homepage";
 import LoginPage from "./containers/general/logged_out/login";
 import ManufacturerRegisterPage from "./containers/general/logged_out/manufacturer_register";
 import { ErrorPage } from "./containers/general/logged_out/error";
-import { InstallmentsPage } from "./containers/farmer/installments/installments";
-import { AddNewPlantPage } from "./containers/farmer/addNewPlant/add_new_plant";
-import { ShippingPage } from "./containers/farmer/shipping/shipping";
+import { InstallmentsPage } from "./containers/farmer/installments/installmentsListView";
+import { AddNewPlantPage } from "./containers/farmer/addNewPlant/addNewPlantListView";
+import { ShippingPage } from "./containers/farmer/shipping/shippingListView";
 import { ManufacturerListViewPage } from "./containers/manufacturer/manufacturerListView";
 import { DeliveriesPage } from "./containers/delivery/deliveries";
 
